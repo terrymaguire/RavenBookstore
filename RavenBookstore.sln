@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenBookstore", "RavenBookstore\RavenBookstore.csproj", "{745A10F9-A57D-482F-BEFA-54466057AD09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenBookstore.Tests", "RavenBookstore.Tests\RavenBookstore.Tests.csproj", "{AE613833-8027-4C35-9C4A-07F5D54E344E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{745A10F9-A57D-482F-BEFA-54466057AD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745A10F9-A57D-482F-BEFA-54466057AD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745A10F9-A57D-482F-BEFA-54466057AD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745A10F9-A57D-482F-BEFA-54466057AD09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE613833-8027-4C35-9C4A-07F5D54E344E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE613833-8027-4C35-9C4A-07F5D54E344E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE613833-8027-4C35-9C4A-07F5D54E344E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE613833-8027-4C35-9C4A-07F5D54E344E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
